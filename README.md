@@ -16,5 +16,5 @@ Below is a list of some of my more recent projects. I have taken the time to try
 > Sklearn/Pandas based data analysis and modeling for bank loan data to predict default risk. The dataset for the project came from Kaggle.com and included > ~500k examples with varying feature consistency. The model was implemented using Sklearn's logistic regression model and was analyzed with ROC, PR, and
 > confusion matrix statistics.
 > &nbsp;
-> 
+> &nbsp;
 >**[Link to project]()**
