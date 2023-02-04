@@ -13,7 +13,8 @@ Below is a list of some of my more recent projects. I have taken the time to try
 ---
 
 > <h3 style="color: color:#028ad9"> Loan Risk Analysis Project </h3> Machine Learning Based Credit Risk Modeling
-> Sklearn/Pandas based data analysis and modeling for bank loan data to predict default risk. The dataset for the project came from Kaggle.com and included > ~500k examples with varying feature consistency. The model was implemented using Sklearn's logistic regression model and was analyzed with ROC, PR, and
+> Sklearn/Pandas based data analysis and modeling for bank loan data to predict default risk. The dataset for the project came from Kaggle.com and included
+> ~500k examples with varying feature consistency. The model was implemented using Sklearn's logistic regression model and was analyzed with ROC, PR, and
 > confusion matrix statistics.
 > 
 > [Link to project](https://google.com)
