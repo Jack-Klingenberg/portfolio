@@ -11,3 +11,8 @@ To learn more about me, please visit my [LinkedIn](https://www.linkedin.com/in/j
 Below is a list of some of my more recent projects. I have taken the time to try and make all the code as readable as possible, as well as include either thorough documentation (for jupyter notebooks) or a ReadMe that explains the goals and structure of the project. Many more projects will be added as I become more available to put some time into documentation. For any questions, please shoot me by email. 
 
 ---
+
+> Loan Risk Analysis Project - Machine Learning Based Credit Risk Modeling
+> Sklearn/Pandas based data analysis and modeling for bank loan data to predict default risk. The dataset for the project came from Kaggle.com and included > ~500k examples with varying feature consistency. The model was implemented using Sklearn's logistic regression model and was analyzed with ROC, PR, and
+> confusion matrix statistics.
+>**[LINK]()**
