@@ -4,6 +4,6 @@ Hi! My name is Jack Klingenberg, and I am a sophomore at Boston College, pursuin
 
 In the spirit of this (somewhat cliche) realization, I have put together some of my recent work to show off some of the Finance/Data Science/CS topics I am fascinated by. I have primarily centered my projects on machine learning and its uses in various contexts; however, I am also interested in topics including automation, web app design, and open-source intelligence which I hope to incorporate into my portfolio soon! 
 
-To learn more about me, please visit my LinkedIn, or feel free to reach out by email at work.jackklingenberg@gmail.com.
+To learn more about me, please visit my [LinkedIn](https://www.linkedin.com/in/jackklingenberg/), or feel free to reach out by email at work.jackklingenberg@gmail.com.
 
 Below, 
