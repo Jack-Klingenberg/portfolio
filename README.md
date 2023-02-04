@@ -6,4 +6,4 @@ In the spirit of this (somewhat cliche) realization, I have put together some of
 
 To learn more about me, please visit my [LinkedIn](https://www.linkedin.com/in/jackklingenberg/), or feel free to reach out by email at work.jackklingenberg@gmail.com.
 
-Below, 
+---
