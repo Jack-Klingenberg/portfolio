@@ -8,7 +8,7 @@ To learn more about me, please visit my [LinkedIn](https://www.linkedin.com/in/j
 
 ---
 
-Below is a list of some of my more recent projects. I have taken the time to try and make all the code as readable as possible, as well as include either thorough documentation (for jupyter notebooks) or a ReadMe that explains the goals and structure of the project. Many more projects will be added as I become more available to put some time into documentation. For any questions, please shoot me by email. 
+Below is a list of some of my more recent projects. I have taken the time to try and make all the code as readable as possible, as well as include either thorough documentation (for jupyter notebooks) or a ReadMe that explains the goals and structure of the project. Many more projects will be added as I become more available to put some time into documentation. For any questions, or for access to my full portfolio, just shoot me an email. 
 
 ---
 
