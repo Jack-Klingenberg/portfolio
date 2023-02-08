@@ -18,3 +18,7 @@ Below is a list of some of my more recent projects. I have taken the time to try
 > confusion matrix statistics.
 > 
 > [Link to project](https://google.com)
+
+> <h3 style="color: color:#028ad9"> Newton's Method Derivation & Implementation </h3> 
+> 
+> [Link to project](https://google.com)
