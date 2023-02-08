@@ -12,13 +12,14 @@ Below is a list of some of my more recent projects. I have taken the time to try
 
 ---
 
-> <h3 style="color: color:#028ad9"> Loan Risk Analysis Project </h3> Machine Learning Based Credit Risk Modeling
+> <h3 style="color: color:#028ad9"> Loan Risk Analysis Project </h3>
 > Sklearn/Pandas based data analysis and modeling for bank loan data to predict default risk. The dataset for the project came from Kaggle.com and included
 > ~500k examples with varying feature consistency. The model was implemented using Sklearn's logistic regression model and was analyzed with ROC, PR, and
 > confusion matrix statistics.
 > 
 > [Link to project](https://google.com)
 
-> <h3 style="color: color:#028ad9"> Newton's Method Derivation & Implementation </h3> 
+> <h3 style="color: color:#028ad9"> Linear Regression via Newton's Method </h3> 
+> Mathematical derivation and implementation of the Newton's Method update rule to fit a "line of best fit" to single feature data. All "heavy lifting" in > the project is done using only Numpy. 
 > 
 > [Link to project](https://google.com)
