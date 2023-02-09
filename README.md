@@ -19,7 +19,7 @@ Below is a list of some of my more recent projects. I have taken the time to try
 > 
 > [Link to project](https://google.com)
 
-> <h3 style="color: color:#028ad9"> Multidimensional Linear Regression using Newton's Method </h3> 
-> Mathematical derivation and implementation of the Newton's Method update rule to fit a "line of best fit" to single feature data. All "heavy lifting" in  the project is done using only Numpy. 
+> <h3 style="color: color:#028ad9"> Multivariate Linear Regression Derivation/Implementation </h3> 
+> Mathematical derivation and implementation of the Newton's Method update rule to compute a "line of best fit" for approximating house price. The model is trained on data from an ongoing (as of Feb 2023) regression competition on Kaggle. 
 > 
 > [Link to project](https://google.com)
