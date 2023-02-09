@@ -17,7 +17,7 @@ Below is a list of some of my more recent projects. I have taken the time to try
 > ~500k examples with varying feature consistency. The model was implemented using Sklearn's logistic regression model and was analyzed with ROC, PR, and
 > confusion matrix statistics.
 > 
-> [Link to project](https://github.com/Jack-Klingenberg/CreditRiskAnalysis)
+> [Link to project](https://github.com/Jack-Klingenberg/CreditRiskAnalysis/blob/main/Loan_Risk_Prediction.ipynb)
 
 > <h3 style="color: color:#028ad9"> Java Perceptron Framework </h3>
 > Basic neural network framework written in java for consise creation and training of multilayer perceptrons. All implementation is done from scratch, using the JBLAS linear algebra library. Unlike some of the python projects, this project attempts to leverage OOP to enable readable and understandable code.  
