@@ -28,3 +28,8 @@ Below is a list of some of my more recent projects. I have taken the time to try
 > (project in progress)
 > 
 > [Link to project](https://google.com)
+
+> <h3 style="color: color:#028ad9"> MRI Scan Tumor Detection</h3> 
+> (project in progress)
+> 
+> [Link to project](https://google.com)
