@@ -26,7 +26,7 @@ Below is a list of some of my more recent projects. I have taken the time to try
 
 > <h3 style="color: color:#028ad9"> MRI Scan Tumor Detection</h3> 
 > Group project attempt to use convolutional neural networks to locate and classify tumors from 3 dimensional MRI imagining via the BraTS 2021 dataset. 
-> 
+> (project in progress) 
 > [Link to project](https://google.com)
 
 > <h3 style="color: color:#028ad9"> Multivariate Linear Regression Derivation/Implementation </h3> 
