@@ -24,6 +24,10 @@ Below is a list of some of my more recent projects. I have taken the time to try
 > 
 > [Link to project](https://github.com/Jack-Klingenberg/CreditRiskAnalysis/blob/main/Loan_Risk_Prediction.ipynb)
 
+> <h3 style="color: color:#028ad9"> MRI Scan Tumor Detection</h3> 
+> (project in progress)
+> 
+> [Link to project](https://google.com)
 
 > <h3 style="color: color:#028ad9"> Multivariate Linear Regression Derivation/Implementation </h3> 
 > Mathematical derivation and implementation of the Newton's Method update rule to compute a "line of best fit" for approximating house price. The model is trained on data from an ongoing (as of Feb 2023) regression competition on Kaggle. 
@@ -31,11 +35,6 @@ Below is a list of some of my more recent projects. I have taken the time to try
 > [Link to project](https://github.com/Jack-Klingenberg/NMRegression)
 
 > <h3 style="color: color:#028ad9"> Naive Bayes Digit Recognition </h3> 
-> (project in progress)
-> 
-> [Link to project](https://google.com)
-
-> <h3 style="color: color:#028ad9"> MRI Scan Tumor Detection</h3> 
 > (project in progress)
 > 
 > [Link to project](https://google.com)
