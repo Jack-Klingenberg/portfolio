@@ -27,7 +27,7 @@ Below is a list of some of my more recent projects. I have taken the time to try
 > <h3 style="color: color:#028ad9"> Time in vs Timing the Market Project </h3>
 > yFinance/Pandas/Seaborn project to examine the dynamics of the market timing across large cap stocks. Results are presented using Seaborn visualization and basic analysis is done to support the claim that when investing in large and healthy companies, the importance of position duration outweighs the importance of buying at exactly the right time. 
 > 
-> [Link to project](https://github.com/Jack-Klingenberg/CreditRiskAnalysis/blob/main/Loan_Risk_Prediction.ipynb)
+> [Link to project](https://github.com/Jack-Klingenberg/TimeIn-Timing-Project/blob/master/notebook.ipynb)
 
 > <h3 style="color: color:#028ad9"> MRI Scan Tumor Detection</h3> 
 > Group project attempt to use convolutional neural networks to locate and classify tumors from 3 dimensional MRI imagining via the BraTS 2021 dataset. The project will will be completed in python and will be linked once it has been complete. 
