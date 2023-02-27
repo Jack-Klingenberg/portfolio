@@ -25,7 +25,9 @@ Below is a list of some of my more recent projects. I have taken the time to try
 > [Link to project](https://github.com/Jack-Klingenberg/CreditRiskAnalysis/blob/main/Loan_Risk_Prediction.ipynb)
 
 > <h3 style="color: color:#028ad9"> MRI Scan Tumor Detection</h3> 
-> Group project attempt to use convolutional neural networks to locate and classify tumors from 3 dimensional MRI imagining via the BraTS 2021 dataset (project in progress) 
+> Group project attempt to use convolutional neural networks to locate and classify tumors from 3 dimensional MRI imagining via the BraTS 2021 dataset.
+> (project in progress) 
+> 
 > [Link to project](https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1)
 
 > <h3 style="color: color:#028ad9"> Multivariate Linear Regression Derivation/Implementation </h3> 
