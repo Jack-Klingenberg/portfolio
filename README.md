@@ -13,7 +13,7 @@ Below is a list of some of my more recent projects. I have taken the time to try
 ---
 
 > <h3 style="color: color:#028ad9"> Java ML Framework </h3>
-> Basic neural network framework written in java for consise creation and training of multilayer perceptrons. All implementation is done from scratch, using the JBLAS linear algebra library. Unlike some of the python projects, this project attempts to leverage OOP to enable readable and understandable code. I am to keep this project up to date as I learn more about more advanced ML algorithms. 
+> Basic neural network framework written in java for consise creation and training of multilayer perceptrons. All implementation is done from scratch, using the JBLAS linear algebra library. Unlike some of the python projects, this project attempts to leverage OOP to enable readable and understandable code. I plan to keep this project up to date as I learn more about more advanced ML algorithms. 
 >
 > [Link to project](https://github.com/Jack-Klingenberg/JBLAS_MLP)
 
