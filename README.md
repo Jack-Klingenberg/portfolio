@@ -28,7 +28,7 @@ Below is a list of some of my more recent projects. I have taken the time to try
 > Group attempt to use convolutional neural networks (based on the U-net architecture) to locate and classify tumors from 3 dimensional MRI imagining via the BraTS2021 dataset.
 > (project in progress) 
 > 
-> [Link to project](https://github.com/Jack-Klingenberg/Brats21/tree/main)
+> [Link to project](https://github.com/Jack-Klingenberg/Brats21)
 
 > <h3 style="color: color:#028ad9"> Time in vs Timing the Market Project </h3>
 > yFinance/Pandas/Seaborn project to examine the dynamics of the market timing across large cap stocks. Results are presented using Seaborn visualization and basic analysis is done to support the claim that when investing in large and healthy companies, the importance of position duration outweighs the importance of buying at exactly the right time. 
