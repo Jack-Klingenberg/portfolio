@@ -24,16 +24,16 @@ Below is a list of some of my more recent projects. I have taken the time to try
 > 
 > [Link to project](https://github.com/Jack-Klingenberg/CreditRiskAnalysis/blob/main/Loan_Risk_Prediction.ipynb)
 
+> <h3 style="color: color:#028ad9"> MRI Scan Tumor Detection</h3> 
+> Group attempt to use convolutional neural networks (based on the U-net architecture) to locate and classify tumors from 3 dimensional MRI imagining via the BraTS2021 dataset.
+> (project in progress) 
+> 
+> [Link to project](https://github.com/Jack-Klingenberg/Brats21/tree/main/src)
+
 > <h3 style="color: color:#028ad9"> Time in vs Timing the Market Project </h3>
 > yFinance/Pandas/Seaborn project to examine the dynamics of the market timing across large cap stocks. Results are presented using Seaborn visualization and basic analysis is done to support the claim that when investing in large and healthy companies, the importance of position duration outweighs the importance of buying at exactly the right time. 
 > 
 > [Link to project](https://github.com/Jack-Klingenberg/TimeIn-Timing-Project/blob/master/notebook.ipynb)
-
-> <h3 style="color: color:#028ad9"> MRI Scan Tumor Detection</h3> 
-> Group project attempt to use convolutional neural networks to locate and classify tumors from 3 dimensional MRI imagining via the BraTS 2021 dataset. The project will will be completed in python and will be linked once it has been complete. 
-> (project in progress) 
-> 
-> [Link to project](https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1)
 
 > <h3 style="color: color:#028ad9"> Multivariate Linear Regression Derivation/Implementation </h3> 
 > Mathematical derivation and implementation of the Newton's Method update rule to compute a "line of best fit" for approximating house price. The model is trained on data from an ongoing (as of Feb 2023) regression competition on Kaggle. 
